@@ -118,7 +118,10 @@ Planned future ideas:
 
 ## Credits
 
-Made by **Cynnet**.
+Made by **Cynt X**.
+<p align="center">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-.cyntx-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</p>
 
 Minecraft is owned by Mojang/Microsoft.  
 Cynnet is not affiliated with Mojang, Microsoft, PaperMC, Fabric, or playit.gg.
