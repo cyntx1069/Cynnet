@@ -1,7 +1,7 @@
 # Cynnet
 
 <p align="center">
-  <img src="assets/app-preview.png" alt="Cynnet app preview" width="900">
+  <img src="Assets/app-preview.png" alt="Cynnet app preview" width="900">
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ Planned future ideas:
 ## Credits
 
 Made by **Cynt X**.
-<p align="center">
+<p align="left">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-.cyntx-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
