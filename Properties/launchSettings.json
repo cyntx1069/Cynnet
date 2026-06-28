@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Cynnet (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Cynnet (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
